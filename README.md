@@ -18,4 +18,4 @@ robot my_test.robot
 - `.gitignore` excludes logs & reports
 - Using XPath for locating elements
 
-🔹 More updates coming soon!
+📌 More updates coming soon!
